@@ -1,8 +1,6 @@
-Este repositório contém um conjunto de scripts de teste desenvolvidos em Python, utilizando a biblioteca PyVISA para comunicação e controle de equipamentos de instrumentação.
-Cada script foi projetado para monitorar dispositivos de teste e exibir dados em tempo real, proporcionando uma interface de visualização intuitiva e eficiente.
+This repository contains a set of test scripts developed in Python, using the PyVISA library for communication and control of instrumentation equipment. Each script is designed to monitor test devices and display data in real-time, providing an intuitive and efficient visualization interface.
 
-O objetivo principal deste projeto foi oferecer uma solução de teste automatizada e visualização em tempo real dos dados coletados, integrando os scripts com equipamentos de medição e análise. Este recurso é particularmente útil para quem precisa acompanhar eventos e variações nos dispositivos monitorados, facilitando a identificação de padrões e possíveis anomalias durante os testes.
+The main goal of this project was to offer an automated testing solution and real-time visualization of the collected data, integrating the scripts with measurement and analysis equipment. This feature is particularly useful for those who need to track events and variations in monitored devices, making it easier to identify patterns and potential anomalies during testing.
 
-Cada teste possui uma interface gráfica que exibe em tempo real os dados coletados, permitindo uma análise dinâmica do comportamento do dispositivo em teste.
-Os scripts foram desenvolvidos para se comunicar com equipamentos de teste compatíveis com PyVISA, permitindo o monitoramento contínuo de leituras e eventos capturados. A leitura dos dados é apresentada em gráficos atualizados em tempo real, permitindo uma análise visual instantânea das variáveis monitoradas.
+Each test includes a graphical interface that displays the collected data in real-time, allowing for a dynamic analysis of the behavior of the device under test. The scripts were developed to communicate with test equipment compatible with PyVISA, enabling continuous monitoring of captured readings and events. Data readings are presented in real-time updated graphs, allowing for an immediate visual analysis of the monitored variables.
 
