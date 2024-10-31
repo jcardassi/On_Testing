@@ -1,4 +1,4 @@
-This repository contains a set of test scripts developed in Python, using the PyVISA library for communication and control of instrumentation equipment. Each script is designed to monitor test devices and display data in real-time, providing an intuitive and efficient visualization interface.
+This repository contains a set of test scripts developed in Python, using the PyVISA library for communication and control of instrumentation equipment. Each script is designed to monitor test devices and display data in real-time, providing an intuitive visualization interface.
 
 The main goal of this project was to offer an automated testing solution and real-time visualization of the collected data, integrating the scripts with measurement and analysis equipment. This feature is particularly useful for those who need to track events and variations in monitored devices, making it easier to identify patterns and potential anomalies during testing.
 
